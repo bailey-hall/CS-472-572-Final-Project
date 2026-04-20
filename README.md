@@ -22,15 +22,15 @@ This project includes two extensions beyond the PCA baseline:
 https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 The dataset was collected from 30 subjects wearing a Samsung Galaxy S II smartphone on their waist
--Records: 10,299
--Features: 561
--Activities: 6
-  LAYING
-  SITTING
-  STANDING
-  WALKING
-  WALKING DOWNSTAIRS
-  WALKING UPSTAIRS
+- Records: 10,299
+- Features: 561
+- Activities: 6
+  - LAYING
+  - SITTING
+  - STANDING
+  - WALKING
+  - WALKING DOWNSTAIRS
+  - WALKING UPSTAIRS
 
 The original train and test data were combined for this unsupervised clustering study, while the labels were kept for Adjusted Rand Index (ARI).
 
