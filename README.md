@@ -72,7 +72,7 @@ Tested with four covariance types:
 - Full
 
 ## Evaluation Metrics
--Silhouette Score
--Adjusted Rand Index (ARI)
+- Silhouette Score
+- Adjusted Rand Index (ARI)
 
 
