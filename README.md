@@ -4,7 +4,7 @@ Public repository for our Spring 2026 CS 472/572 final project: "Human Activity 
 
 ## Project Overview
 
-Human Activity Recognition (HAR) has become increasingly important in mobile health, elderly care, and personalized fitness because smartphones and wearable devices continuously collect accelerometer and gyroscope data. Since this type of data is high-dimensional and often contains non-linear relationships, unsupervised clustering can be difficult using only traditional linear methods.
+Human Activity Recognition (HAR) has become increasingly important in mobile health, elderly care, and personalized fitness because smartphones and wearable devices continuously collect accelerometer and gyroscope data. This project provides a comparative analysis of unsupervised clustering performance on the UCI Human Activity Recognition Using Smartphones dataset by evaluating five clustering models: K-Means, Hierarchical Agglomerative Clustering, Spectral Clustering, DBSCAN, and Gaussian Mixture Models. In addition to a PCA baseline, the project also includes neural-network-based feature extraction using a symmetric Autoencoder (AE) and a Convolutional Variational Autoencoder (CVAE) to study how non-linear and spatial-temporal feature learning affects clustering performance.
 
 This project compares the following clustering models on the UCI HAR dataset:
 - K-Means
