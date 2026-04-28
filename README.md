@@ -21,7 +21,7 @@ This project includes two extensions beyond the PCA baseline:
 ### Dataset:
 - Original dataset source:
 https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
-- For this project, we use the updated data files stored in the repository's under data.zip
+- For this project, we use the updated data files stored in the repository's under data.zip which includes train.csv and test.csv 
 
 The dataset was collected from 30 subjects wearing a Samsung Galaxy S II smartphone on their waist
 - Records: 10,299
@@ -41,7 +41,7 @@ The original train and test data were combined for this unsupervised clustering 
 1. Open Project.ipynb in Google Colab.
 2. Go to Runtime > Change runtime type.
 3. Set Hardware accelerator to GPU.
-4. Upload train.csv and test.csv before running the notebook.
+4. Upload train.csv and test.csv before running the notebook (can be found under data.zip)
 5. Run the notebook from top to bottom.
 
 
