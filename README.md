@@ -19,7 +19,9 @@ This project includes two extensions beyond the PCA baseline:
 - Convolutional Variational Autoencoder (CVAE)
 
 ### Dataset:
+-Original dataset source:
 https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+-For this project, we use the updated data files stored in the repository's dataset/ folder.
 
 The dataset was collected from 30 subjects wearing a Samsung Galaxy S II smartphone on their waist
 - Records: 10,299
